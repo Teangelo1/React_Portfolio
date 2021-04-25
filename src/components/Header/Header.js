@@ -12,9 +12,9 @@ import Nav from "react-bootstrap/Nav"
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="#AboutMe">About Me</Nav.Link>
-            <Nav.Link href="#Portfolio">Portfolio</Nav.Link>
-            <Nav.Link href="#Contact">Contact</Nav.Link>
+            <Nav.Link className="NavBar" href="#AboutMe">About Me</Nav.Link>
+            <Nav.Link className="NavBar" href="#Portfolio">Portfolio</Nav.Link>
+            <Nav.Link className="NavBar" href="#Contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar> 

@@ -1,13 +1,16 @@
 .jumbotron {
     align-items: center;
+
 }
-    h1 {
+    #CodingExp {
     font-family: 'Major Mono Display',cursive;
  color: white;
  text-align: center;
+ font-size: 45px;
 }
 
 #jumboText {
     color: white;
     text-align: center;
+    font-size: 25px;
 }
