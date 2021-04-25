@@ -1,0 +1,13 @@
+.jumbotron {
+    align-items: center;
+}
+    h1 {
+    font-family: 'Major Mono Display',cursive;
+ color: white;
+ text-align: center;
+}
+
+#jumboText {
+    color: white;
+    text-align: center;
+}
