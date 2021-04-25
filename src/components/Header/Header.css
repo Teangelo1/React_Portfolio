@@ -3,13 +3,10 @@ body {
     background-size: cover;
    
 }
-.NavBar {
-   align-items: center;
-   font-size: 20px;
-}
 
     #navbar {
         padding: 20px;
+    ;
         
         
     }
