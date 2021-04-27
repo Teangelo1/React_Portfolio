@@ -20,11 +20,12 @@ export default function About() {
   </Container>
 </Jumbotron>
 
-<a href='www.youtube.com'>
+<a href='https://www.linkedin.com/in/teangelo-burks-9516a2164/' target="#">
 <FaLinkedin /> </a>
 
-
+<a href="https://github.com/Teangelo1" target="#">
 <FaGithub /> 
+</a>
 
 <AiFillFileImage />
 </>
