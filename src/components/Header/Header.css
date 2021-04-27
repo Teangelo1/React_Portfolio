@@ -14,3 +14,8 @@
         font-size: 25px;
     
     }
+
+    .move-left {
+        display: flex;
+        justify-content: flex-end;
+    }

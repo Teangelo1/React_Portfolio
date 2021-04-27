@@ -1,6 +1,7 @@
 import React from 'react'
+import '../../styles/Contact.css'
 
-const ContactForm = () => {
+const Contact = () => {
   return (
     <div className='ContactForm'>
       <div className='container'>
@@ -61,4 +62,4 @@ const ContactForm = () => {
   );
 };
 
-export default ContactForm;
+export default Contact;

@@ -60,4 +60,12 @@ svg {
     color: white;
     font-size: 50px;
     align-items: center;
+    margin: 20px;
+    
+}
+
+.iconCenter {
+    display: flex;
+    justify-content: center;
+    
 }
