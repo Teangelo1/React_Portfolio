@@ -1,18 +1,26 @@
 import Header from "./components/Header/Header";
-import css from "./components/Header/Header.css"
-import MainPage from './components/MainPage/MainPage';
-import MAINCSS from './components/MainPage/MainCSS.css';
-import Footer from './components/Footer/Footer'
-import FooterCSS from './components/Footer/FooterCSS.css'
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+import About from './pages/About';
+import Portfolio from './pages/Portfolio';
+import Footer from './components/Footer/Footer';
+
+
+
+
+
 
 
 function App() {
   return (
-    <div>
-    <Header />
-    <MainPage />
-    <Footer />
-    </div>
+    <Router>
+      <div>
+        <Header />
+        <Route exact path="/" component={About} />
+        <Route exact path="/portfolio" component={Portfolio} />
+        <Footer />
+      </div>
+    </Router>
+
   );
 }
 
