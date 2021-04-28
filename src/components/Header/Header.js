@@ -8,7 +8,7 @@ import './Header.css'
     
     return (
         <div>
-             <Navbar id="navbar" collapseOnSelect expand="lg" bg="light" variant="light">
+             <Navbar id="navbar" collapseOnSelect expand="lg" bg="transparent" variant="light">
         <Navbar.Brand id="aboutmename" href="/">Teangelo Burks</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">

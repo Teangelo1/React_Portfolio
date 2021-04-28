@@ -5,6 +5,7 @@ import '../styles/About.css'
 import { FaLinkedin } from 'react-icons/fa';
 import { FaGithub } from 'react-icons/fa';
 import { AiFillFileImage } from 'react-icons/ai'
+import { MdEmail } from 'react-icons/md'
 
 export default function About() {
     return (
@@ -28,6 +29,9 @@ export default function About() {
 </a>
 
 <AiFillFileImage />
+
+<a href="mailto:burks.teangelo@gmail.com" target="#">
+<MdEmail/> </a>
 </div>
 </>
     )
