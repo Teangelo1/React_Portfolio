@@ -11,11 +11,12 @@
     }
     
     .nav-item {
-        font-size: 25px;
+        font-family: 'Major Mono Display',cursive;
     
     }
 
     .move-left {
         display: flex;
         justify-content: flex-end;
+       font-size: 25px;
     }

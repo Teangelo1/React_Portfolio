@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+form {
+  margin-top: 20px;
+  background: transparent;
+}
+
+.formRow {
+  margin: 10px 0 20px 0;
+}
+
+.formInput {
+  padding: 25px 10px;
+  background: transparent;
+  box-shadow: 0 0 0 2px gray;
+  border: solid;
+ 
+}
+
+.form-control{
+    background-color: transparent;
+}
+.formInput:focus {
+  background-color: transparent;
+  outline: none;
+  box-shadow: 0 0 0 2px var(--green);
+  color: var(--transparent);
+}
+
+
+.formInput:focus::placeholder {
+  color: var(--transparent);
+  opacity: 1;
+}
+
+.errorMessage {
+  color: #f45532;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+/* #notifyToast {
+  color: #fff;
+  border-radius: 6px;
+  width: 200px;
+  margin-left: 75px;
+  background-color: var(--green);
+} */
+
+.submit-btn {
+  background-color: var(--dark);
+  color: white !important;
+  padding: 15px 50px;
+  border: 2px solid gray;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+.submit-btn:hover {
+  background-color: var(--black);
+  color: var(--white) !important;
+  border: 2px solid var(--white);
+}
+
+.submit-btn:disabled:hover {
+  background-color: var(--dark);
+  cursor: wait;
+}
+
+@media (max-width: 768px) {
+  .submit-message {
+    width: 125px;
+    margin-left: 200px;
+  }
+}
