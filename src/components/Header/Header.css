@@ -1,6 +1,7 @@
 
     #navbar {
         padding: 20px;
+        background-color: transparent;
     ;
         
         
@@ -8,10 +9,12 @@
     #aboutmename{
         font-family: 'Major Mono Display',cursive;
         font-size: 40px;
+        
     }
     
     .nav-item {
         font-family: 'Major Mono Display',cursive;
+        float: right;
     
     }
 

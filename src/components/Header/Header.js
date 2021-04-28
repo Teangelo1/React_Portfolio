@@ -15,7 +15,7 @@ import './Header.css'
           <Nav className="mr-auto text-center move-left">
             <Nav.Link className="text-center" href="/">About Me</Nav.Link>
             <Nav.Link  href="/portfolio">Portfolio</Nav.Link>
-            <Nav.Link href="/contact">Contact</Nav.Link>
+            {/* <Nav.Link href="/contact">Contact</Nav.Link> */}
           </Nav>
         </Navbar.Collapse>
       </Navbar> 
