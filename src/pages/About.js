@@ -29,7 +29,7 @@ export default function About() {
           <FaGithub />
         </a>
 
-        <a href="../Images/Teangelo Burks Resume.pdf" target="#"><AiFillFileImage />
+        <a href={process.env.PUBLIC_URL + '/Teangelo-Burks-Resume.pdf'} target="_blank" download><AiFillFileImage />
         </a>
 
         <a  href="mailto:burks.teangelo@gmail.com" target="#">
