@@ -100,3 +100,12 @@ svg {
     justify-content: center;
     
 }
+
+.hide {
+    display: none;
+}
+
+.phone:hover + .hide {
+    display: block;
+    color: white;
+}

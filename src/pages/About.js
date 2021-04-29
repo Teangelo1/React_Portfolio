@@ -6,6 +6,7 @@ import { FaLinkedin } from 'react-icons/fa';
 import { FaGithub } from 'react-icons/fa';
 import { AiFillFileImage } from 'react-icons/ai'
 import { MdEmail } from 'react-icons/md'
+import { AiFillPhone } from 'react-icons/ai';
 
 export default function About() {
   return (
@@ -31,8 +32,12 @@ export default function About() {
         <a href="../Images/Teangelo Burks Resume.pdf" target="#"><AiFillFileImage />
         </a>
 
-        <a href="mailto:burks.teangelo@gmail.com" target="#">
+        <a  href="mailto:burks.teangelo@gmail.com" target="#">
           <MdEmail /> </a>
+
+          <a href='tel:3136493617' className="phone"><AiFillPhone className="phone"/></a>
+          <div class="hide">Phone Number: 313-649-3617
+          </div>
       </div>
     </>
   )
