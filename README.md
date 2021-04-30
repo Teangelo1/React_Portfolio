@@ -1,11 +1,14 @@
-# Teangelo's Portfolio
+# Teangelo Burks Portfolio
 
 # Developer: Teangelo Burks
 
 ## Goal: Updated Portfolio using React.js
 
-
+## User Interface
 ![PortfolioUI](src/Images/Portfolio.UI.png)
+
+## Demonstration:
+![ProjectDemo](src/Images/ProjectDemo.gif)
 # License:
 None
 
