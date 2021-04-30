@@ -28,8 +28,7 @@
     .navitemcolor {
         color: white;
     }
-
-    #collapsecolor {
-        color: white;
-    }
     
+#responsive-navbar-nav {
+    color: white !important;
+}

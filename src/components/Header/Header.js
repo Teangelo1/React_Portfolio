@@ -10,14 +10,12 @@ import './Header.css'
         <div>
              <Navbar id="navbar" collapseOnSelect expand="lg" bg="transparent" variant="" className="navitemcolor">
         <Navbar.Brand id="aboutmename" href="/">Teangelo Burks</Navbar.Brand>
-        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-        <Navbar.Collapse id="responsive-navbar-nav collapsecolor">
+        <Navbar.Toggle aria-controls="responsive-navbar-nav color-white " />
+        <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className=" move-right">
-            {/* <Nav.Link className=" move-right" href="/">About Me</Nav.Link> */}
             <Nav.Link className="move-right" href="/portfolio">Projects</Nav.Link>
-            {/* <Nav.Link href="/contact">Contact</Nav.Link> */}
           </Nav>
-        </Navbar.Collapse>
+        </Navbar.Collapse >
       </Navbar> 
         </div>
     )
