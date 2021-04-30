@@ -23,6 +23,7 @@ None
 
 
 # Contact Me
+## Resume: [Teangelo's Resume](https://drive.google.com/file/d/1ELqb3UQb8il7Der3y2yirKN_0we36noM/view?usp=sharing)
 ## Github Username: [Teangelo1](https://github.com/Teangelo1)
 ## Email: burks.teangelo@gmail.com
 ## Phone Number: 313-649-3617
