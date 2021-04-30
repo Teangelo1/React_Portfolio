@@ -29,7 +29,7 @@ export default function Portfolio() {
             illo fugit corporis, voluptatibus totam dolorum, maiores magnam
             officia. Ab, delectus.
           </p>
-          <a href="#" class="btn">View Project</a>
+          <a href="https://teangelo1.github.io/restaurant-dashboard/" class="btn">View Project</a>
         </div>
       </section>
 
@@ -41,7 +41,7 @@ export default function Portfolio() {
           An Application that uses password authentication, This application will allow the user to Add an event with a Title, Start date/time, Duration, and Description, View Recently added events while also having the option to export your saved event into your mobile device. <br />
             <br /> Technologies used: Handlebars, Node.js, Express.js, MySQL, ICS package, CSS, JavaScript, Travis and Passport.
           </p>
-          <a href="#" class="btn">View Project</a>
+          <a href="https://agile-gorge-53521.herokuapp.com/members" class="btn">View Project</a>
         </div>
       </section>
 
@@ -55,7 +55,7 @@ export default function Portfolio() {
             illo fugit corporis, voluptatibus totam dolorum, maiores magnam
             officia. Ab, delectus.
           </p>
-          <a href="#" >View Project</a>
+          <a href="https://pure-taiga-35486.herokuapp.com/" class="btn">View Project</a>
         </div>
       </section>
 
@@ -69,7 +69,7 @@ export default function Portfolio() {
             illo fugit corporis, voluptatibus totam dolorum, maiores magnam
             officia. Ab, delectus.
           </p>
-          <a href="#">View Project</a>
+          <a href="https://warm-journey-95857.herokuapp.com/?id=6071b569a2c2a60015b11168" class="btn">View Project</a>
         </div>
       </section>
 
@@ -83,7 +83,7 @@ export default function Portfolio() {
             illo fugit corporis, voluptatibus totam dolorum, maiores magnam
             officia. Ab, delectus.
           </p>
-          <a href="#">View Project</a>
+          <a href="https://teangelo1.github.io/Fun_with_Password_Generator/" class="btn">View Project</a>
         </div>
       </section>
 
@@ -97,7 +97,7 @@ export default function Portfolio() {
             illo fugit corporis, voluptatibus totam dolorum, maiores magnam
             officia. Ab, delectus.
           </p>
-          <a href="#">View Project</a>
+          <a href="https://teangelo1.github.io/Coding-Quiz/" class="btn">View Project</a>
         </div>
       </section>
     </main>
