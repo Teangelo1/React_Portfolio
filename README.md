@@ -25,3 +25,6 @@ None
 # Contact Me
 ## Github Username: [Teangelo1](https://github.com/Teangelo1)
 ## Email: burks.teangelo@gmail.com
+## Phone Number: 313-649-3617
+
+## Deployed Link: [Teangelo's Portfolio](https://teangelo1.github.io/React_Portfolio/#/)
