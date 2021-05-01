@@ -6,13 +6,13 @@ import {Link} from "react-router-dom";
  function Header() {
     return (
         <div>
-             <Navbar id="navbar" collapseOnSelect expand="lg" bg="transparent" variant="" className="navitemcolor">
+             <Navbar id="navbar" collapseOnSelect expand="lg" bg="transparent" variant="" className="navitemcolor navbar-dark">
         <Navbar.Brand id="aboutmename" href="/">Teangelo Burks</Navbar.Brand>
-        <Navbar.Toggle aria-controls="responsive-navbar-nav color-white " />
-        <Navbar.Collapse id="responsive-navbar-nav">
+        <Navbar.Toggle aria-controls="responsive-navbar-nav navbar-dark " />
+        <Navbar.Collapse id="responsive-navbar-nav navbar-dark">
           <Nav className=" move-right">
             <Nav.Item>
-              <Nav.Link as={Link} className="move-right" to="/portfolio">Projects</Nav.Link>
+              <Nav.Link as={Link} className="move-right navbar-dark" to="/portfolio">Projects</Nav.Link>
               </Nav.Item>
           </Nav>
         </Navbar.Collapse >
