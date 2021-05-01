@@ -10,9 +10,8 @@ function App() {
     <Router>
       <div>
         <Header />
-        <Route exact path="/" component={About} />
-        <Route exact path="/portfolio" component={Portfolio} />
-        <Route component ={About} />
+        <Route exact path="/"> {About} </Route>  
+        <Route exact path="/portfolio"> {Portfolio} </Route>     
         <Footer />
       </div>
     </Router>
