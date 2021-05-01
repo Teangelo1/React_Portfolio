@@ -10,7 +10,7 @@ import { AiFillPhone } from 'react-icons/ai';
 
 export default function About() {
   return (
-    <>
+  <div>
       <Jumbotron className="jumbotron bg-transparent" fluid>
         <Container>
           <h1 id="CodingExp">Coding Experiment</h1>
@@ -39,6 +39,6 @@ export default function About() {
           <div class="hide">Phone Number: 313-649-3617
           </div>
       </div>
-    </>
+   </div>
   )
 }

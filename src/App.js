@@ -10,8 +10,8 @@ function App() {
     <Router>
       <div>
         <Header />
-        <Route exact path="/"> {About} </Route>  
-        <Route exact path="/portfolio"> {Portfolio} </Route>     
+        <Route exact path="/">{About}</Route>  
+        <Route exact path="/portfolio">{Portfolio} </Route>     
         <Footer />
       </div>
     </Router>
