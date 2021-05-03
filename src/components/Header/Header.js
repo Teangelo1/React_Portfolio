@@ -7,7 +7,7 @@ import {Link} from "react-router-dom";
     return (
         <div>
              <Navbar id="navbar" collapseOnSelect expand="lg" bg="transparent" variant="" className="navitemcolor navbar-dark">
-        <Navbar.Brand as={Link} id="aboutmename" href="/">Teangelo Burks</Navbar.Brand>
+        <Navbar.Brand as={Link} id="aboutmename" to="/">Teangelo Burks</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav navbar-dark " />
         <Navbar.Collapse id="responsive-navbar-nav navbar-dark">
           <Nav className=" move-right">
