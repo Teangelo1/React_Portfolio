@@ -12,8 +12,8 @@ body {
     font-family: 'Major Mono Display',cursive;
  color: white;
  text-align: center;
- font-size: 45px;
-margin-top: 2cm;
+ font-size: 40px;
+
 }
 
 #jumboText {
@@ -98,7 +98,7 @@ svg {
 .iconCenter {
     display: flex;
     justify-content: center;
-    
+    margin-bottom: 2cm;
 }
 
 .hide {
@@ -109,3 +109,161 @@ svg {
     display: block;
     color: white;
 }
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    animation: fadeIn ease 10s;
+    -webkit-animation: fadeIn ease 10s;
+    -moz-animation: fadeIn ease 10s;
+    -o-animation: fadeIn ease 10s;
+    -ms-animation: fadeIn ease 10s;
+    
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    /* border-bottom: 1px solid white; */
+    }
+    @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+
+}
+
+svg {
+    color: white;
+    font-size: 50px;
+    align-items: center;
+    margin: 20px;
+    animation: fadeIn ease 10s;
+    -webkit-animation: fadeIn ease 10s;
+    -moz-animation: fadeIn ease 10s;
+    -o-animation: fadeIn ease 10s;
+    -ms-animation: fadeIn ease 10s;
+    
+}
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+
+}
+
+li {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    animation: fadeIn ease 10s;
+    -webkit-animation: fadeIn ease 10s;
+    -moz-animation: fadeIn ease 10s;
+    -o-animation: fadeIn ease 10s;
+    -ms-animation: fadeIn ease 10s;
+    /* text-align: center; */
+    font-size: 20px;
+    font-weight: bold;
+  
+    }
+    @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+
+}
+
+svg {
+    color: white;
+    font-size: 50px;
+    align-items: center;
+    margin: 20px;
+    animation: fadeIn ease 10s;
+    -webkit-animation: fadeIn ease 10s;
+    -moz-animation: fadeIn ease 10s;
+    -o-animation: fadeIn ease 10s;
+    -ms-animation: fadeIn ease 10s;
+    
+}
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+
+}
+

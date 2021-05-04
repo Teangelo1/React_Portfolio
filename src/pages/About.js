@@ -17,9 +17,26 @@ export default function About() {
           <p id="jumboText">
             My name is Teangelo Burks, a Full Stack Software Developer located in Michigan.
             I've always had a passion for designing aesthetically pleasing websites and applications.
-            Luckily, Development has allowed me to express my creativity through many coding languages, frameworks, & technologies. During my studies of web development, I've learned to love both Frontend & Backend development equally. I have a natural curiosity for technology, and look forward to continuing my studies day after day.
+            Luckily, Development has allowed me to express my creativity through many coding languages, frameworks, & technologies. During my studies of web development, I've learned to love both Frontend & Backend development equally. I have a natural curiosity for technology, and look forward to continuing my studies day after day. <br />
+            <br /> Email: burks.teangelo@gmail.com
     </p>
-        </Container>
+
+   <h2>Skills/Technologies:</h2>
+<li>HTML/CSS</li>
+<li>JavaScript</li>
+<li>jQuery</li>
+<li>Bootstrap</li>
+<li>API's</li>
+<li>Node.js</li>
+<li>Express Servers</li>
+<li>MySQL</li>
+<li>MongoDB/Mongoose</li>
+<li>Progressive Web Applications</li>
+<li>Heroku Deployment</li>
+<li>MERN Stack</li>
+   
+    
+   </Container>
       </Jumbotron>
       <div className="iconCenter">
         <a href='https://www.linkedin.com/in/teangelo-burks-9516a2164/' target="#">
