@@ -5,10 +5,10 @@
 ## Goal: Updated Portfolio using React.js
 
 ## User Interface
-![PortfolioUI](src/Images/Portfolio.UI.png)
+![PortfolioUI](src/Images/UpdatedUI.png)
 
 ## Demonstration:
-![ProjectDemo](src/Images/ProjectDemo.gif)
+![ProjectDemo](src/Images/ProjectDemoUpdate.gif)
 # License:
 None
 
