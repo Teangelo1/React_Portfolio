@@ -7,6 +7,7 @@ import BudgetControl from '../Images/BudgetControl.png';
 import restaurant from '../Images/restaurant.png'
 import passwordGen from '../Images/passwordGen.png'
 import CodingQuiz from '../Images/CodingQuiz.png'
+import OpusApp from '../Images/OpusApp.png';
 import "../styles/Portfolio.css";
 import Fitness from '../Images/Fitness.jpg';
 AOS.init();
@@ -20,7 +21,20 @@ export default function Portfolio() {
 
     <main class="container">
       <section class="card">
-        <img src={(restaurant)} alt="" />
+        <img src={(OpusApp)} alt="OpusAppPhoto" />
+        <div>
+          <h3>OPUS</h3>
+          <p>
+         Full Stack MERN Application that allows the perfect book experience for the user. User's will be able to find the Top 15 trending books for the current week. While also being able to search for a book of choice then add that book to a specific shelf and write reviews about what they may think of the book. <br />
+            <br /> Technologies Used: HTML, CSS, JavaScript, React.JS, Node.JS, Express.JS, React-Bootstrap, and MySQL database. 
+          </p>
+          <a href="https://opus2021.herokuapp.com/" target="#" class="btn">View Project</a>
+          <a href="https://github.com/Teangelo1/Opus.git" target="#" class="btn">View Github Repo</a>
+        </div>
+      </section>
+
+      <section class="card" data-aos="fade-right">
+        <img src={(restaurant)} alt="RestaurantImage" />
         <div>
           <h3>Feeeed me!</h3>
           <p>
@@ -33,7 +47,7 @@ export default function Portfolio() {
       </section>
 
       <section class="card" data-aos="fade-left">
-        <img src={(amnesiaNull)} alt="" />
+        <img src={(amnesiaNull)} alt="AmnesiaNullAppPhoto" />
         <div>
           <h3>Amnesia(Null)</h3>
           <p>
@@ -46,7 +60,7 @@ export default function Portfolio() {
       </section>
 
       <section class="card" data-aos="fade-right">
-        <img src={(BudgetControl)} alt="" />
+        <img src={(BudgetControl)} alt="BudgetControlImage" />
         <div>
           <h3>Budget Control</h3>
           <p>
@@ -61,7 +75,7 @@ export default function Portfolio() {
       </section>
 
       <section class="card" data-aos="fade-left">
-        <img src={(Fitness)} alt="" />
+        <img src={(Fitness)} alt="FitnessApp" />
         <div>
           <h3>Fitness Tracking</h3>
           <p>
@@ -74,7 +88,7 @@ export default function Portfolio() {
       </section>
 
       <section class="card" data-aos="fade-right">
-        <img src={(passwordGen)} alt="" />
+        <img src={(passwordGen)} alt="SecurePasswordGenerator" />
         <div>
           <h3>Secure Password Generator</h3>
           <p>
@@ -87,7 +101,7 @@ export default function Portfolio() {
       </section>
 
       <section class="card" data-aos="fade-left">
-        <img src={(CodingQuiz)} alt="" />
+        <img src={(CodingQuiz)} alt="CodingQuiz" />
         <div>
           <h3>Coding Quiz</h3>
           <p>
