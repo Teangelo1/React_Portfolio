@@ -15,7 +15,7 @@ export default function About() {
         <Container>
           <h1 id="CodingExp">Coding Experiment</h1>
           <p id="jumboText">
-            My name is Teangelo Burks, a Full Stack Software Developer located in Michigan.
+            My name is Teangelo Burks, a Full Stack Software Developer located in Michigan. Recently completed My Full Stack Web Development Bootcamp through Michigan State University.
             I've always had a passion for designing aesthetically pleasing websites and applications.
             Luckily, Development has allowed me to express my creativity through many coding languages, frameworks, & technologies. During my studies of web development, I've learned to love both Frontend & Backend development equally. I have a natural curiosity for technology, and look forward to continuing my studies day after day. <br />
             <br /> Email: burks.teangelo@gmail.com
