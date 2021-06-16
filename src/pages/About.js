@@ -24,16 +24,17 @@ export default function About() {
    <h2>Skills/Technologies:</h2>
 <li>HTML/CSS</li>
 <li>JavaScript</li>
+<li>React.js</li>
+<li>Node.js</li>
+<li>Express Servers</li>
 <li>jQuery</li>
 <li>Bootstrap</li>
 <li>API's</li>
-<li>Node.js</li>
-<li>Express Servers</li>
 <li>MySQL</li>
 <li>MongoDB/Mongoose</li>
 <li>Progressive Web Applications</li>
 <li>Heroku Deployment</li>
-<li>MERN Stack</li>
+<li>MERN</li>
    
     
    </Container>
