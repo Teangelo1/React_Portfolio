@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.138e58ea.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.04db4f4e.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.04db4f4e.chunk.js.map",
+    "main.js": "/React_Portfolio/static/js/main.c73eb5d5.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.c73eb5d5.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.8a463700.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.8a463700.js.map",
     "static/css/2.a7a85ca3.chunk.css": "/React_Portfolio/static/css/2.a7a85ca3.chunk.css",
@@ -18,6 +18,7 @@
     "static/media/BudgetControl.36c47c1c.png": "/React_Portfolio/static/media/BudgetControl.36c47c1c.png",
     "static/media/CodingQuiz.006b69cc.png": "/React_Portfolio/static/media/CodingQuiz.006b69cc.png",
     "static/media/Fitness.c4bed20d.jpg": "/React_Portfolio/static/media/Fitness.c4bed20d.jpg",
+    "static/media/OpusApp.33a9a233.png": "/React_Portfolio/static/media/OpusApp.33a9a233.png",
     "static/media/amnesiaNull.dcf14675.png": "/React_Portfolio/static/media/amnesiaNull.dcf14675.png",
     "static/media/passwordGen.523fc481.png": "/React_Portfolio/static/media/passwordGen.523fc481.png",
     "static/media/restaurant.cfefaa5f.png": "/React_Portfolio/static/media/restaurant.cfefaa5f.png"
@@ -27,6 +28,6 @@
     "static/css/2.a7a85ca3.chunk.css",
     "static/js/2.b11e4263.chunk.js",
     "static/css/main.138e58ea.chunk.css",
-    "static/js/main.04db4f4e.chunk.js"
+    "static/js/main.c73eb5d5.chunk.js"
   ]
 }
